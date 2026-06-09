@@ -14,3 +14,5 @@ C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\refint\ProductApp.dll
 C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.pdb
 C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.genruntimeconfig.cache
 C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ref\ProductApp.dll
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.Properties.Resources.resources
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.sourcelink.json

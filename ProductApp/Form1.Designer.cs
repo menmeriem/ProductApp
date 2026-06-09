@@ -43,7 +43,7 @@
             // 
             txtName.Location = new Point(285, 40);
             txtName.Name = "txtName";
-            txtName.Size = new Size(125, 27);
+            txtName.Size = new Size(181, 27);
             txtName.TabIndex = 0;
             // 
             // txtSearch
@@ -58,7 +58,7 @@
             // 
             txtPrice.Location = new Point(285, 111);
             txtPrice.Name = "txtPrice";
-            txtPrice.Size = new Size(125, 27);
+            txtPrice.Size = new Size(181, 27);
             txtPrice.TabIndex = 2;
             txtPrice.TextChanged += textBox3_TextChanged;
             // 
@@ -75,7 +75,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(65, 197);
+            label2.Location = new Point(60, 197);
             label2.Name = "label2";
             label2.Size = new Size(53, 20);
             label2.TabIndex = 4;
@@ -93,21 +93,24 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(142, 250);
+            dataGridView1.Location = new Point(60, 250);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(300, 188);
+            dataGridView1.Size = new Size(611, 188);
             dataGridView1.TabIndex = 6;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // btnAdd
             // 
+            btnAdd.BackColor = SystemColors.ActiveCaption;
+            btnAdd.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAdd.ForeColor = SystemColors.ControlText;
             btnAdd.Location = new Point(590, 76);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(129, 29);
             btnAdd.TabIndex = 7;
             btnAdd.Text = "Add Product";
-            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.UseVisualStyleBackColor = false;
             btnAdd.Click += button1_Click;
             // 
             // Form1
