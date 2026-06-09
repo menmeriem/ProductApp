@@ -1,0 +1,16 @@
+C:\ProductApp\ProductApp\bin\Debug\net8.0-windows\ProductApp.exe
+C:\ProductApp\ProductApp\bin\Debug\net8.0-windows\ProductApp.deps.json
+C:\ProductApp\ProductApp\bin\Debug\net8.0-windows\ProductApp.runtimeconfig.json
+C:\ProductApp\ProductApp\bin\Debug\net8.0-windows\ProductApp.dll
+C:\ProductApp\ProductApp\bin\Debug\net8.0-windows\ProductApp.pdb
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.Form1.resources
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.csproj.GenerateResource.cache
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.AssemblyInfoInputs.cache
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.AssemblyInfo.cs
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.csproj.CoreCompileInputs.cache
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.dll
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\refint\ProductApp.dll
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.pdb
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ProductApp.genruntimeconfig.cache
+C:\ProductApp\ProductApp\obj\Debug\net8.0-windows\ref\ProductApp.dll

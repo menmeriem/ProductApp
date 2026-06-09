@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|c:\\productapp\\productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{380A29E4-C0D9-403C-B34D-016E10FF8073}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Form1.Designer.cs",
+              "RelativeToolTip": "ProductApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T11:02:31.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Form1.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Form1.cs",
+              "RelativeToolTip": "ProductApp\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vzAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:58:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Form1.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Form1.cs [Design]",
+              "RelativeToolTip": "ProductApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:58:16.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Services\\ProductService.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:55:14.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Repositories\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "ProductApp\\Repositories\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:55:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductApp\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:54:51.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductApp\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:54:42.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\Product.cs",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T10:54:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductApp.csproj",
+              "DocumentMoniker": "C:\\ProductApp\\ProductApp\\ProductApp.csproj",
+              "RelativeDocumentMoniker": "ProductApp\\ProductApp.csproj",
+              "ToolTip": "C:\\ProductApp\\ProductApp\\ProductApp.csproj",
+              "RelativeToolTip": "ProductApp\\ProductApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T10:53:29.409Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
